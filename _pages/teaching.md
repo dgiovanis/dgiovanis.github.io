@@ -4,7 +4,7 @@ permalink: /teaching/
 ---
 
 
-<h3>**Instructor**</h3> 
+<h3>Instructor</h3> 
 
 
 <h5>Johns Hopkins University</h5> 
@@ -60,7 +60,7 @@ structures, using genetic and evolutionary optimization algorithms.
 </ol>
 
 
-<h3>**Teaching Assistant**</h3> 
+<h3>Teaching Assistant</h3> 
 
 <h5>National Technical University of Athens</h5> 
 <ol>
