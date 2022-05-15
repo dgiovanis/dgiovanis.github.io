@@ -90,7 +90,7 @@ Computational models of the human head are promising tools for estimating the im
 <h4>An initial investigation of structural reliability from sparse data (2018-2019)</h4>
 
 <strong>Funding Source</strong>: <a href="https://www.onr.navy.mil/" target="_blank">Office of Naval Research</a><br>
-<strong>Role</strong>: Postdoctoral Researcher
+<strong>Role</strong>: Postdoctoral Researcher<br>
 
 In this project I applied methods for imprecise probability in the context of structural reliability in
 order to realistically assess the uncertainty in probability of failure estimates. More specifically, I proposed a framework that couples Subset simulation (SuS) and First-order reliability method with Bayesian/information theoretic multi-model inference.
@@ -107,7 +107,7 @@ In this project I developed novel adaptive stochastic collocation methods. More 
 Modeling and Optimum Design of Carbon Nanotube Reinforced Materials (2012-2017)</h4>
 
 <strong>Funding Source</strong>: <a href="https://erc.europa.eu/funding/advanced-grants" target="_blank">European Research Council</a><br>
-<strong>Role</strong>: Ph.D Researcher
+<strong>Role</strong>: Ph.D Researcher<br>
 
 In this project I applied machine learning (e.g., artificial neural networks in the framework of multiscale analysis of composite materials with Carbon nanotubes (CNTs)). Moreover, I developed an adaptive version of Spectral Stochastic Finite Element Method, introducing a nonlinear formulation and introducing novel solution schemes.
 
