@@ -4,7 +4,7 @@ title: "About"
 ---
 
 ## Welcome!
-<p align="justify/left/right/center">
+<p align="justify">
 Uncertainty plays an outsized role in our understanding of structures and materials, especially in extreme environments, but it can also have a life changing impact -- for example, natural hazards can affect a community, a city, and can often impact an entire country. Therefore, reducing uncertainty in the modeling of physical or structural systems is critical if we want to inform decision-making and enable engineering to move away from empirical <i>ad hoc</i> approaches into strategies that are based on scientifically grounded analyses.
 
 
