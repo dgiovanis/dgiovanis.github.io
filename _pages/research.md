@@ -13,7 +13,7 @@ permalink: /research/
 
 Optimization of material strength, failure tolerance, and formability requires a capacity to predict mechanical response on the continuum or meso-scale based on quantification of a material's microstructure on the atomic scale. In this project we use machine learning to build a robust bridge between atomic scale data and the development of meso-scale models suitable for predicting the response of metallic glasses. Specific tasks include: (i) Manifold learning (e.g., diffusion maps) for nonlinear dimension reduction of the atomistic data to identify machine learned descriptors of the material microstructure and, (ii) deep learning to derive meso-scale constitutive models / evolution equations that predict the evolution of the microstructure and the development of plastic flow resulting in failure.
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/SandiaProject.png" width="500px"/>
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/SandiaProject.png"/>
 
 <h4>Natural Hazards Engineering Research Infrastructure: Computational Modeling and Simulation Center (2021-2025)</h4>
 
@@ -24,7 +24,7 @@ Optimization of material strength, failure tolerance, and formability requires a
 
 The goal of the <a href="https://simcenter.designsafe-ci.org" target="_blank">SimCenter</a> is to promote advanced modeling and simulation technologies for natural hazards engineering (NHE) researchers and practitioners to understand and quantify the effects of earthquakes, hurricanes, tsunamis, and other natural hazards on buildings, lifelines, and communities. In this project the state-of-the-art uncertainty quantification methods are integrated with SimCenter tools for hazard modelers, efforts for enhancing detailed modeling, expansion of regional capabilities to include new hazards and interfaces with urban planning and modeling tools. My role in SimCenter is to guide development and application efforts for UQ approaches, i.e., identify/articulate UQ issues and consistent methodologies to characterize and propagate uncertainties ranging from natural hazards (earthquakes, hurricane, tsunami, water and wind effect), to effects on individual structures and large regional inventories. 
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/SimCenter.png" width="500px"/>
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/SimCenter.png"/>
 
 
 <h4>Manifold Learning for Rapid Post Wildfire Debris Flow Hazard Assessment (2022-2026)</h4>
@@ -35,7 +35,8 @@ The goal of the <a href="https://simcenter.designsafe-ci.org" target="_blank">Si
 
 Wild fires significantly increase the susceptibility of steep terrain to rainfall-induced debris flows. These fast moving, dense flows are initiated during short, intense rainfall and are often triggered with little-to-no warning, making them especially dangerous for communities situated down slope of recently burned terrain. Is is well known that uncertainties in soil properties,rainfall,and triggering mechanisms play a crucial role in risk analysis. The focus of this project is to develop a mechanics-based and data-driven approach for assessing post-wildfire debris flow hazard both in terms of triggering and areal extent by comprehensively incorporating the spatial and temporal variability and uncertainty in material properties and triggering characteristics. To this end, we develop manifold learning-based surrogate modeling approaches both for triggering and runout analysis.
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/debris.png" width="500px"/>
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/debris.png"/>
+
 
 <h4>Data-driven uncertainty quantification for energetic materials (2022-2023)</h4>
 
@@ -46,7 +47,7 @@ Wild fires significantly increase the susceptibility of steep terrain to rainfal
 
 Energetic materials such as propellants, explosives, and pyrotechnics are key performance components in a wide range of defense applications, including solid rocket motors and munitions. It has long been understood that the sensitivity of energetic materials to loading (e.g., shock) is critically dependent on the heterogeneities of the microstructure. Given its inherently stochastic nature, in order to understand, predict and control the shock-to-detonation or shock-to-deflagration transition, it is crucial to conduct uncertainty quantification. In this project, I develop manifold learning-based surrogate models that will accelerate UQ. The material system is a quasi-2D sample of porous RDX (cyclotrimethylene trinitramine) with randomly distributed cylindrical pores of random size. 
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/energetic.png" width="500px"/>
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/energetic.png"/>
 
 ## Engagement in other on-going projects
 
@@ -56,7 +57,7 @@ Energetic materials such as propellants, explosives, and pyrotechnics are key pe
 
 This work is primarily focused on the mathematical development of dimension reduction methods for uncertainty quantification. Within a multiscale setting, active learning methods are employed at each length-scale to develop physically-informed surrogate models that can be used for prediction at each length-scale and across length scales. The surrogates at each scale are trained to be predictive while maintaining the physical interpretation of the solution. In other words, these surrogates are not simply arbitrary curve-fits but are also not fully developed reduced-order models (ROMs) in the sense that they solve the governing equations on a reduced number of degrees of freedom. For this reason, we refer to them as pseudo-ROMs (P-ROMs).
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/mPCE.png" width="500px"/>
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/mPCE.png"/>
 
 <h4>OptiSimCVD: a data-driven framework for prediction, sensitivity analysis and uncertainty quantification in Chemical Vapor Deposition (CVD) reactors (2021-2024)</h4>
 
@@ -64,7 +65,7 @@ This work is primarily focused on the mathematical development of dimension redu
 
 The project OptiSimCVD proposes a data-driven framework for prediction, sensitivity analysis and uncertainty quantification in industrial-scale processes used to produce hard coatings and wear protection. The core of the production process is Chemical Vapor Deposition (CVD) reactors with different set up but with a common goal: uniform coatings with strict limits of variability. Data from this process are utilized to identify clusters of reactors with different set-up but similar qualitative characteristics of the coating. Then regression models will be developed for each one of the clusters, that will correlate inputs (features) with the output. Finally, surrogate models will be used in the context of forward uncertainty quantification and sensitivity analysis to eventually develop a tool that will contribute to process efficiency by reducing scrap rate (30%) and improve quality by enhancing homogeneity (15%).
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/video.mov" width="500px"/>
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/video.mov"/>
 
 <h4>MSEE: A University Research Alliance for Materials Science in Extreme Environments (2020-2029)</h4>
 
@@ -74,7 +75,7 @@ The project OptiSimCVD proposes a data-driven framework for prediction, sensitiv
 An alliance of 18 research institutions led by the Johns Hopkins University in collaboration with the Defense Threat Reduction Agency (DTRA) to advance fundamental science to reduce the threat of weapons of mass destruction. My role is to lead UQ efforts together with Prof. Shields. Current applications include: (i) Bayesian Inference to learn uncertainties from experimental data, that are used to inform canonical model, laser-driven, experiments spanning the parameter space that constrain uncertainties in material properties, (ii) Development of validated constitutive models for deformation, flow, and thermal fields in sand and sandstone, considering uncertainties and, (iii) Optimizing/controlling the time evolution of a molecular system under the influence of electromagnetic radiation (i.e., a laser pulse or an external light source).
 
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/MSEE.png" width="500px"/>
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/MSEE.png"/>
 
 <h4>Data-driven Uncertainty Quantification in Computational Human Head Models (2020-2022)</h4>
 
@@ -82,7 +83,7 @@ An alliance of 18 research institutions led by the Johns Hopkins University in c
 
 Computational models of the human head are promising tools for estimating the impact-induced response of brain, and thus play an important role in the prediction of traumatic brain injury. Modern biofidelic head model simulations are associated with very high computational cost, and high-dimensional inputs and outputs, which limits the applicability of traditional uncertainty quantification (UQ) methods on these systems. In this study, a two-stage, data-driven manifold learning-based framework is proposed for UQ of computational head models. 
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/head1.png" width="500px"/>
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/head1.png"/>
 
 ## Past projects
 
