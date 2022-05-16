@@ -3,7 +3,7 @@ main:
     url: /about/
   - title: "Research"
     url: /research/
-   - title: "Projects"
+  - title: "Projects"
     url: /projects/   
   - title: "Publications"
     url: /publications/
