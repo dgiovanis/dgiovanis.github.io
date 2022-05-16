@@ -15,13 +15,13 @@ permalink: /teaching/
   </ul>  
   This course presents a broad survey of the basic mathematical methods used
 in the solution of ordinary and partial differential equations: linear algebra, power series,
-Fourier series, separation of variables and integral transforms.
+Fourier series, separation of variables and integral transforms. <br>
 
   <li><strong>Case Coding</strong> (EN.560.291) -- <strong>Level</strong>: Undergraduate, <strong>Format</strong>: Lecture</li>
       <ul>
         <li><em>Fall</em>: 2022</li>
     </ul> 
-  Having taken a computing course in the freshman year, this course allows students to further develop their programming skills to solve, understand, or automate problems specific to Civil and Systems Engineering. Students learn fundamental engineering and data analytics operations skills in a variety of softwares (e.g., R, Matlab, ArcGIS).
+  Having taken a computing course in the freshman year, this course allows students to further develop their programming skills to solve, understand, or automate problems specific to Civil and Systems Engineering. Students learn fundamental engineering and data analytics operations skills in a variety of softwares (e.g., R, Matlab, ArcGIS).<br>
 
   
   <li><strong>Gateway Computing Python</strong> (EN.500.113) -- <strong>Level</strong>: Undergraduate, <strong>Format</strong>: Flipped Classroom</li>
@@ -34,7 +34,7 @@ Fourier series, separation of variables and integral transforms.
 using Python programming language. Topics covered include the design and implementation
 of algorithms using variables, control structures, arrays, functions, files, testing, debugging,
 and structured program design. Elements of object-oriented programming, algorithmic
-efficiency and data visualization are also discussed.
+efficiency and data visualization are also discussed.<br>
 
   <li><strong>Gateway Computing MATLAB</strong> (EN.500.114) -- <strong>Level</strong>: Undergraduate, <strong>Format</strong>: Flipped Classroom</li>
       <ul>
@@ -44,7 +44,7 @@ efficiency and data visualization are also discussed.
 using MATLAB. Topics covered include the design and implementation of algorithms using
 variables, control structures, arrays, functions, files, testing, debugging, and structured
 program design. Elements of object-oriented programming, algorithmic efficiency and data
-visualization are also discussed.
+visualization are also discussed.<br>
  
 </ol>
 
@@ -55,7 +55,7 @@ visualization are also discussed.
       <li><em>Sping</em>: 2016</li>
     </ul>
   Thic course covered topics of size, shape and topology optimization of
-structures, using genetic and evolutionary optimization algorithms.
+structures, using genetic and evolutionary optimization algorithms.<br>
 
   <li><strong>Artificial Neural Networks and Metaheuristic Algorithms in Structural Mechanics</strong> -- <strong>Level</strong>: Graduate, <strong>Format</strong>: Lecture</li>
       <ul>
