@@ -37,10 +37,10 @@ Development of a <a href='https://www.coursera.org/courses?query=johns%20hopkins
 
 
 
-<h3>University / Department Service</h3> 
+<h3>University / Department Service (JHU)</h3> 
 
 
-:pushpin: Volunteer Assistant Coach for the man's Water Polo team at Johns Hopkins University -- (Since 2016).<br>
+:pushpin: Volunteer Assistant Coach for the man's Water Polo team -- (Since 2016).<br>
 :pushpin: Judge for the Student Paper Competition,  8th Annual Johns Hopkins Postdoctoral Conference -- (April 2022).<br>
 
 
