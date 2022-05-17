@@ -50,12 +50,12 @@ Development of a <a href='https://www.coursera.org/courses?query=johns%20hopkins
 
 
 :pushpin: Organized Conference Sessions<br>
-    <ul>
-      <li><strong>UNCECOMP 2023</strong>, Title: <em>Learning from small data: Data-driven methods and machine learning for uncertainty quantification in engineering applications</em></li>
-      <li> <strong>UNCECOMP 2021</strong>, Title: <em>Data-driven Uncertainty Quantification and Data Assimilation using manifold learning and Sparse and Low-rank Representations</em></li>
-      <li><strong>WCCM 2020</strong>, Title: <em>Physics-based data-driven modeling and uncertainty quantification in computational mechanics</em></li>
-      <li><strong>UNCECOMP 2019</strong>, Title: <em>Surrogate and reduced-order modeling for stochastic simulation of physical systems</em></li>
-    </ul>
+<ol>
+    <li><strong>UNCECOMP 2023</strong>, Title: <em>Learning from small data: Data-driven methods and machine learning for uncertainty quantification in engineering applications</em></li>
+    <li> <strong>UNCECOMP 2021</strong>, Title: <em>Data-driven Uncertainty Quantification and Data Assimilation using manifold learning and Sparse and Low-rank Representations</em></li>
+    <li><strong>WCCM 2020</strong>, Title: <em>Physics-based data-driven modeling and uncertainty quantification in computational mechanics</em></li>
+    <li><strong>UNCECOMP 2019</strong>, Title: <em>Surrogate and reduced-order modeling for stochastic simulation of physical systems</em></li>
+</ol>
 :pushpin: Organized Workshops<br>
     <ul>
   <li><strong><a href='https://github.com/SURGroup/MSEE_UQ_Short_Course' target='_blank'>MSEE Short Course</a></strong>: Uncertainty Quantification in Physics-Based Modeling Using Python -- (June 2021, 2022). Offered for the Materials Science in Extreme Environments University Research Alliance (MSEE URA)</li>
