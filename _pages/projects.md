@@ -16,7 +16,7 @@ Optimization of material strength, failure tolerance, and formability requires a
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/SandiaProject.png"/>
 
-<h4>Natural Hazards Engineering Research Infrastructure: Computational Modeling and Simulation Center (2021-2025)</h4>
+<h3>Natural Hazards Engineering Research Infrastructure: Computational Modeling and Simulation Center (2021-2025)</h3>
 
 <strong>Funding Source</strong>: <a href="https://www.nsf.gov" target="_blank">National Science Foundation</a><br>
 <strong>Role</strong>: Co-PI<br>
@@ -28,7 +28,7 @@ The goal of the <a href="https://simcenter.designsafe-ci.org" target="_blank">Si
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/SimCenter.png"/>
 
 
-<h4>Manifold Learning for Rapid Post Wildfire Debris Flow Hazard Assessment (2022-2026)</h4>
+<h3>Manifold Learning for Rapid Post Wildfire Debris Flow Hazard Assessment (2022-2026)</h3>
 
  <strong>Funding Source</strong>: <a href="https://www.nsf.gov" target="_blank">National Science Foundation</a> (Pending)<br>
   <strong>Role</strong>: Co-PI<br>
@@ -39,7 +39,7 @@ Wild fires significantly increase the susceptibility of steep terrain to rainfal
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/debris.png"/>
 
 
-<h4>Data-driven uncertainty quantification for energetic materials (2022-2023)</h4>
+<h3>Data-driven uncertainty quantification for energetic materials (2022-2023)</h3>
 
 
  <strong>Funding Source</strong>: <a href="https://hemi.jhu.edu" target="_blank">Hopkins Extreme Materials Institute</a> (Pending)<br>
@@ -52,7 +52,7 @@ Energetic materials such as propellants, explosives, and pyrotechnics are key pe
 
 ## Engagement in other on-going projects
 
-<h4>Low-dimensional manifold learning for uncertainty quantification in complex multi-scale stochastic sytems (2019-2024)</h4>
+<h3>Low-dimensional manifold learning for uncertainty quantification in complex multi-scale stochastic sytems (2019-2024)</h3>
 
 <strong>Funding Source</strong>: <a href="https://www.energy.gov" target="_blank">Department of Energy</a><br>
 
@@ -60,7 +60,7 @@ This work is primarily focused on the mathematical development of dimension redu
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/mPCE.png"/>
 
-<h4>OptiSimCVD: a data-driven framework for prediction, sensitivity analysis and uncertainty quantification in Chemical Vapor Deposition (CVD) reactors (2021-2024)</h4>
+<h3>OptiSimCVD: a data-driven framework for prediction, sensitivity analysis and uncertainty quantification in Chemical Vapor Deposition (CVD) reactors (2021-2024)</h3>
 
 <strong>Funding Source</strong>: <a href="https://www.ceratizit" target="_blank">CERATIZIT</a>, <a href="https://www.fnr.lu" target="_blank">Luxembourgh National Research Fund</a><br>
 
@@ -69,7 +69,7 @@ Uncertainty quantification will contribute to process efficiency by reducing scr
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/video.mov"/>
 
-<h4>MSEE: A University Research Alliance for Materials Science in Extreme Environments (2020-2029)</h4>
+<h3>MSEE: A University Research Alliance for Materials Science in Extreme Environments (2020-2029)</h3>
 
 <strong>Funding Source</strong>: <a href="https://www.dtra.mil" target="_blank">Defence Threat Reduction Agency</a><br>
 
@@ -79,7 +79,7 @@ An alliance of 18 research institutions led by the Johns Hopkins University in c
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/MSEE.png"/>
 
-<h4>Data-driven Uncertainty Quantification in Computational Human Head Models (2020-2022)</h4>
+<h3>Data-driven Uncertainty Quantification in Computational Human Head Models (2020-2022)</h3>
 
 <strong>Funding Source</strong>: <a href="https://www.ninds.nih.gov" target="_blank">National Institute of Neurological Disorders and Stroke of the National Institutes of Health (NIH)</a><br>
 
@@ -90,7 +90,7 @@ Computational models of the human head are promising tools for estimating the im
 ## Past projects
 
 <div class="row align-items-end">
-<h4>An initial investigation of structural reliability from sparse data (2018-2019)</h4>
+<h3>An initial investigation of structural reliability from sparse data (2018-2019)</h3>
 
 <strong>Funding Source</strong>: <a href="https://www.onr.navy.mil/" target="_blank">Office of Naval Research</a><br>
 <strong>Role</strong>: Postdoctoral Researcher<br>
@@ -98,7 +98,7 @@ Computational models of the human head are promising tools for estimating the im
 In this project I applied methods for imprecise probability in the context of structural reliability in
 order to realistically assess the uncertainty in probability of failure estimates. More specifically, I proposed a framework that couples Subset simulation (SuS) and First-order reliability method with Bayesian/information theoretic multi-model inference.
 
-<h4>Efficient stochastic simulation-based computational modeling for structural design, reliability and life-cycle assessment  (2016-2019)</h4>
+<h3>Efficient stochastic simulation-based computational modeling for structural design, reliability and life-cycle assessment  (2016-2019)</h3>
 
 <strong>Funding Source</strong>: <a href="https://www.onr.navy.mil/" target="_blank">Office of Naval Research</a><br>
 <strong>Role</strong>: Postdoctoral Researcher
@@ -106,8 +106,8 @@ order to realistically assess the uncertainty in probability of failure estimate
 In this project I developed novel adaptive stochastic collocation methods. More specifically, the proposed method is based on the concept of multi-element stochastic collocation methods and is capable of dealing with very high-dimensional models whose solutions are expressed as a vector, a matrix, or a tensor. 
 
 
-<h4>Mastering the Computational Challenges in Numerical
-Modeling and Optimum Design of Carbon Nanotube Reinforced Materials (2012-2017)</h4>
+<h3>Mastering the Computational Challenges in Numerical
+Modeling and Optimum Design of Carbon Nanotube Reinforced Materials (2012-2017)</h3>
 
 <strong>Funding Source</strong>: <a href="https://erc.europa.eu/funding/advanced-grants" target="_blank">European Research Council</a><br>
 <strong>Role</strong>: Ph.D Researcher<br>
