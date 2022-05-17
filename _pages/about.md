@@ -10,7 +10,7 @@ I was born and raised in Athens, Greece. I am an <strong>Assistant Research Prof
 Prior to that I was a postdoctoral scholar working with Prof. <a href="https://engineering.jhu.edu/faculty/michael-shields/" target="_blank">Michael Shields</a>  in CaSE at JHU. Before joining JHU, I completed my Ph.D. in Civil Engineering in the area of <i>Stochastic Finite Element Methods and Reliability analysis</i> under the supervision of Prof. <a href="https://scholar.google.gr/citations?user=gNdMW-sAAAAJ&hl=el" target="_blank">V. Papadopoulos</a>  and Prof. <a href="https://scholar.google.com/citations?user=wwTD1HcAAAAJ&hl=en" target="_blank">M. Papadrakakis</a> at the National Technical University of Athens. I hold an M.Sc. in <a href="http://compmech.chemeng.ntua.gr/?&lang=en" target="_blank">Computational Mechanics </a>  of solids and a 5-year diploma in <a href="https://www.ntua.gr/en/schools/item/25-school-of-civil-engineering" target="_blank">Civil (Structural) Engineering</a>. 
 
 
-With regards to my non-academic and research interests, I am an <strong>Assistant Coach</strong> for the JHU men's <a href="https://hopkinssports.com/sports/mens-water-polo" target="_blank">Water Polo</a> varsity team. I also play the classic guitar, and I love (good!) coffee, travelling, swimming and my motorcycle!
+With regards to my non-academic and research interests, I am an <strong>Assistant Coach</strong> for the JHU men's <a href="https://hopkinssports.com/sports/mens-water-polo" target="_blank">Water Polo</a> varsity team. I also play the classic guitar, and I love (good!) coffee, my two cats, travelling, swimming and my motorcycle!
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/image.png"/>
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/image1.png"/>
 
