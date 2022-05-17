@@ -48,3 +48,15 @@ permalink: /publications/
 
 :pushpin: V. Papadopoulos, **D.G. Giovanis**, N.D. Lagaros, M. Papadrakakis, [Accelerated subset simulation with neural networks for reliability analysis](https://doi.org/10.1016/j.cma.2012.02.013), <u>Computer Methods in Applied Mechanics and Engineering</u>, 223, 70-80, 2012.<br/>
 
+## In Conference Proceedings
+
+:pushpin: **D.G. Giovanis**, M.D. Shields, [Imprecise Subset simulation for reliability analysis](http://ww2new.unime.it/REC2021/proceedings/REC2021_Proceedings.pdf), <u>9th International Workshop on Reliable Engineering Computing (REC2021)</u>, Taormina, Italy, 2021.<br/>
+
+:pushpin: **D.G. Giovanis**, M.D. Shields, [Structural reliability analysis from sparse data](https://doi.org/10.22725/ICASP13.195), <u>3th International Conference on Applications of Statistics and Probability in Civil Engineering (ICASP13)</u>, Seoul, S. Korea, 2019.<br/>
+
+:pushpin: **D.G. Giovanis**, M.D. Shields,  [High-dimensional interpolation on the Grassmann manifold using Gaussian processes](https://doi.org/10.22725/ICASP13.197), <u>3th International Conference on Applications of Statistics and Probability in Civil Engineering (ICASP13)</u>, Seoul, S. Korea, 2019.<br/>
+
+:pushpin: **D.G. Giovanis**, M.D. Shields,  [Regression of High Dimensional Data on the Grassmann Manifold using Spectral Clustering](http://rpsonline.com.sg/proceedings/9789811127236/html/25.xml), <u>Eighth International Conference on Computational Stochastic Mechanics (CSM8)</u>, Paros, Greece, 2018.<br/>
+
+:pushpin: **D.G. Giovanis**, V. Papadopoulos, N.D. Lagaros, M. Papadrakakis  [Structural reliability analysis using subset simulation and neural networks](https://www.amazon.com/Reliability-Structures-Infrastructures-Engineering-Systems/dp/0415475570), <u>The 10th International Conference on Structural Safety and Reliability (ICOSSAR)</u>, Paros, Greece, 2018.<br/>
+
