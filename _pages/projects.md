@@ -65,7 +65,7 @@ This work is primarily focused on the mathematical development of dimension redu
 <strong>Funding Source</strong>: <a href="https://www.ceratizit" target="_blank">CERATIZIT</a>, <a href="https://www.fnr.lu" target="_blank">Luxembourgh National Research Fund</a><br>
 
 The project OptiSimCVD proposes a data-driven framework for prediction, sensitivity analysis and uncertainty quantification in industrial-scale processes used to produce hard coatings and wear protection. The core of the production process is Chemical Vapor Deposition (CVD) reactors with different set up but with a common goal: uniform coatings with strict limits of variability. 
-# Data from this process are utilized to identify clusters of reactors with different set-up but similar qualitative characteristics of the coating. Then regression models will be developed for each one of the clusters, that will correlate inputs (features) with the output. Finally, surrogate models will be used in the context of forward uncertainty quantification and sensitivity analysis to eventually develop a tool that will contribute to process efficiency by reducing scrap rate (30%) and improve quality by enhancing homogeneity (15%).
+Uncertainty quantification will contribute to process efficiency by reducing scrap rate (30%) and improve quality by enhancing homogeneity (15%).
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/video.mov"/>
 
@@ -74,7 +74,7 @@ The project OptiSimCVD proposes a data-driven framework for prediction, sensitiv
 <strong>Funding Source</strong>: <a href="https://www.dtra.mil" target="_blank">Defence Threat Reduction Agency</a><br>
 
 
-An alliance of 18 research institutions led by the Johns Hopkins University in collaboration with the Defense Threat Reduction Agency (DTRA) to advance fundamental science to reduce the threat of weapons of mass destruction. My role is to lead UQ efforts together with Prof. Mike Shields. Current applications include: (i) Bayesian Inference to learn uncertainties from experimental data, that are used to inform canonical model, laser-driven, experiments spanning the parameter space that constrain uncertainties in material properties, (ii) Development of validated constitutive models for deformation, flow, and thermal fields in sand and sandstone, considering uncertainties and, (iii) Optimizing/controlling the time evolution of a molecular system under the influence of electromagnetic radiation (i.e., a laser pulse or an external light source).
+An alliance of 18 research institutions led by the Johns Hopkins University in collaboration with the Defense Threat Reduction Agency (DTRA) to advance fundamental science to reduce the threat of weapons of mass destruction. My role is to lead UQ efforts across the consortium with Prof. Mike Shields. Current applications include: (i) Bayesian Inference to learn uncertainties from experimental data that can be used to inform canonical models and laser-driven  experiments, (ii) Development of validated constitutive models for deformation, flow, and thermal fields in sand and sandstone, considering uncertainties and, (iii) Controlling the time evolution of a molecular system under the influence of electromagnetic radiation.
 
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/MSEE.png"/>
@@ -83,7 +83,7 @@ An alliance of 18 research institutions led by the Johns Hopkins University in c
 
 <strong>Funding Source</strong>: <a href="https://www.ninds.nih.gov" target="_blank">National Institute of Neurological Disorders and Stroke of the National Institutes of Health (NIH)</a><br>
 
-Computational models of the human head are promising tools for estimating the impact-induced response of brain, and thus play an important role in the prediction of traumatic brain injury. Modern biofidelic head model simulations are associated with very high computational cost, and high-dimensional inputs and outputs, which limits the applicability of traditional uncertainty quantification (UQ) methods on these systems. In this study, a two-stage, data-driven manifold learning-based framework is proposed for UQ of computational head models. 
+Computational models of the human head are promising tools for estimating the impact-induced response of brain, and thus play an important role in the prediction of traumatic brain injury. Modern biofidelic head model simulations are associated with very high computational cost, and high-dimensional inputs and outputs, which limits the applicability of traditional uncertainty quantification (UQ) methods on these systems. In this project, we investigate  data-driven manifold learning-based frameworks for UQ of computational head models. 
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/head1.png"/>
 
