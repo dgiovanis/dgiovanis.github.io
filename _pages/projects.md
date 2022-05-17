@@ -5,7 +5,7 @@ permalink: /projects/
 
 ## Funded projects
 
-<h4>Machine Learning Metallic Glass Structure-Property Relations (2020-present)</h4>
+<h3>Machine Learning Metallic Glass Structure-Property Relations (2020-present)</h3>
 
 <strong>Funding Source</strong>: <a href="https://www.sandia.gov" target="_blank">Sandia National Laboratories</a><br>
 <strong>Role</strong>: Co-PI<br>
