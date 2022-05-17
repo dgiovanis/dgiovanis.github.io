@@ -40,7 +40,7 @@ Development of a <a href='https://www.coursera.org/courses?query=johns%20hopkins
 <h3>University / Department Service</h3> 
 
 
-:pushpin: Volunteer Assistant Coach for the man's Water Polo team at Johns Hopkins university -- (Since 2016).<br>
+:pushpin: Volunteer Assistant Coach for the man's Water Polo team at Johns Hopkins University -- (Since 2016).<br>
 :pushpin: Judge for the Student Paper Competition,  8th Annual Johns Hopkins Postdoctoral Conference -- (April 2022).<br>
 
 
@@ -52,10 +52,12 @@ Development of a <a href='https://www.coursera.org/courses?query=johns%20hopkins
 * <strong>UNCECOMP 2021</strong>, Title: <em>Data-driven Uncertainty Quantification and Data Assimilation using manifold learning and Sparse and Low-rank Representations.</em>
 * <strong>WCCM 2020</strong>, Title: <em>Physics-based data-driven modeling and uncertainty quantification in computational mechanics.</em>
 * <strong>UNCECOMP 2019</strong>, Title: <em>Surrogate and reduced-order modeling for stochastic simulation of physical systems.</em>
+
 :pushpin: Organized <u>Workshops</u><br>
-<a href='https://github.com/SURGroup/MSEE_UQ_Short_Course' target='_blank'>MSEE Short Course</a>: Uncertainty Quantification in Physics-Based Modeling Using Python -- (June 2021, 2022). Offered for the Materials Science in Extreme Environments University Research Alliance (MSEE URA)<br>
+* <a href='https://github.com/SURGroup/MSEE_UQ_Short_Course' target='_blank'>MSEE Short Course</a>: Uncertainty Quantification in Physics-Based Modeling Using Python -- (June 2021, 2022). Offered for the Materials Science in Extreme Environments University Research Alliance (MSEE URA)<br>
+
 :pushpin: Other<br>
-Judge, Student Paper Competition,  Engineering Mechanics Conference (PMC) -- (June 2022)
+* Judge, Student Paper Competition,  Engineering Mechanics Conference (PMC) -- (June 2022)
 
 
 
