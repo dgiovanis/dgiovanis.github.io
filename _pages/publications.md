@@ -18,7 +18,7 @@ permalink: /publications/
 ## Journal Articles
 
 
-:pushpin: K.R.dos Santos, **D.G. Giovanis**, M.D. Shields, [Imprecise Subset Simulation](https://doi.org/10.1137/20M137001X), <u>SIAM Journal on Scientific Computing</u>, 44(2), B250-B274, 2022.<br/>
+:pushpin: K.R.dos Santos, **D.G. Giovanis**, M.D. Shields, [Grassmannian Diffusion Maps--Based Dimension Reduction and Classification for High-Dimensional Data](https://doi.org/10.1137/20M137001X), <u>SIAM Journal on Scientific Computing</u>, 44(2), B250-B274, 2022.<br/>
 
 :pushpin: M.D. Shields, **D.G. Giovanis**, V.S. Sundar, [Subset Simulation for problems with strongly non-Gaussian, highly anisotropic, and degenerate distributions](https://doi.org/10.1016/j.compstruc.2020.106431), <u>Computers & Structures</u>, 45(3), 106431, 2021.<br/>
 
@@ -34,4 +34,17 @@ permalink: /publications/
 
 :pushpin: V. Papadopoulos, G. Soimoiris, **D.G. Giovanis**,  [A neural network-based surrogate model for carbon nanotubes with geometrical nonlinearities](https://doi.org/10.1016/j.cma.2017.09.010), <u>Computer Methods in Applied Mechanics and Engineering</u>, 328, 411-430, 2017.<br/>
 
+:pushpin: G. Stavroulakis, **D.G. Giovanis**, V. Papadopoulos, M. Papadrakakis, [A GPU domain decomposition solution for spectral stochastic finite element method](https://doi.org/10.1016/j.cma.2017.08.042), <u>Computer Methods in Applied Mechanics and Engineering</u>, 327, 392-410, 2017.<br/>
+
+:pushpin: **D.G. Giovanis**, I. Papaioannou, D. Straub, V. Papadopoulos, [Bayesian updating with subset simulation using artificial neural networks](https://doi.org/10.1016/j.cma.2017.02.025), <u>Computer Methods in Applied Mechanics and Engineering</u>, 319, 124-145, 2017.<br/>
+
+:pushpin: **D.G. Giovanis**, M. Fragiadakis, V. Papadopoulos, [Assessment of epistemic uncertainty using incremental dynamic analysis and artificial neural networks](https://doi.org/10.1007/s10518-015-9838-7), <u>Bulletin of Earthquake Engineering</u>, 14(2), 529-547, 2016.<br/>
+
+:pushpin: **D.G. Giovanis**, V. Papadopoulos, G. Stavroulakis, [An adaptive spectral Galerkin stochastic finite element method using variability response functions](https://doi.org/10.1002/nme.4926), <u>International Journal for Numerical Methods in Engineering</u>, 104(3), 185-208, 2015.<br/>
+
+:pushpin: **D.G. Giovanis**, V. Papadopoulos, [Spectral representation-based neural network assisted stochastic structural mechanics](https://doi.org/10.1016/j.engstruct.2014.11.044), <u>Engineering Structures</u>, 104, 382-394, 2015.<br/>
+
+:pushpin: G. Stavroulakis, **D.G. Giovanis**, M. Papadrakakis, V. Papadopoulos, [A new perspective on the solution of uncertainty quantification and reliability analysis of large-scale problems](https://doi.org/10.1016/j.cma.2014.03.009), <u>Computer Methods in Applied Mechanics and Engineering</u>, 276, 627-658, 2014.<br/>
+
 :pushpin: V. Papadopoulos, **D.G. Giovanis**, N.D. Lagaros, M. Papadrakakis, [Accelerated subset simulation with neural networks for reliability analysis](https://doi.org/10.1016/j.cma.2012.02.013), <u>Computer Methods in Applied Mechanics and Engineering</u>, 223, 70-80, 2012.<br/>
+
