@@ -12,14 +12,13 @@ permalink: /publications/
 
 :pushpin: K.R.M. dos Santos, **D.G. Giovanis**, K. Kontolati, D. Loukrezis, M.D. Shields, [Grassmannian diffusion maps based surrogate modeling via geometric harmonics](https://arxiv.org/pdf/2109.13805.pdf), Accepted for publication in <i>International Journal for Numerical Methods in Engineering</i>, 2022.<br/>
 
-:pushpin: K. Kontolati, D. Loukrezis, K.R.M. dos Santos, **D.G. Giovanis**, M D. Shields, [Manifold learning-based polynomial chaos expansions for high-dimensional surrogate models](https://arxiv.org/pdf/2107.09814.pdf), Accepted for publication in <i>International Journal for Uncertainty Quantification</i>, 2022.<br/>
-
 :pushpin: K. Kontolati, D. Loukrezis, **D.G. Giovanis**, L. Vandanapu, M.D. Shields, [A survey of unsupervised learning methods for high-dimensional uncertainty quantification in black-box-type problems](https://arxiv.org/abs/2202.04648), Accepted for publication in <i>Journal of Computational Physics</i>, 2022.<br/>
 
 :pushpin: K. Upadhya,  **D.G. Giovanis**, R. Jagani, A. Alshareef, A.K. Knutsen, C. L. Johnson, A. Caras, P.V. Bayly, M.D. Shields, K.T. Ramesh, [Data-driven Uncertainty Quantification in Computational Human Head Models](https://arxiv.org/pdf/2110.15553.pdf), Accepted for publication in <i>Computer Methods in Applied Mechanics and Engineering</i>, 2022.<br/>
 
 ## Journal Articles
 
+:pushpin: K. Kontolati, D. Loukrezis, K.R.M. dos Santos, **D.G. Giovanis**, M D. Shields, [Manifold learning-based polynomial chaos expansions for high-dimensional surrogate models](https://doi.org/10.1615/Int.J.UncertaintyQuantification.2022039936), Accepted for publication in <i>International Journal for Uncertainty Quantification</i>, 12(4):39-64, 2022.<br/>
 
 :pushpin: K.R.dos Santos, **D.G. Giovanis**, M.D. Shields, [Grassmannian Diffusion Maps--Based Dimension Reduction and Classification for High-Dimensional Data](https://doi.org/10.1137/20M137001X), <i>SIAM Journal on Scientific Computing</i>, 44(2), B250-B274, 2022.<br/>
 
