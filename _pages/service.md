@@ -28,14 +28,14 @@ Development of a <a href='https://www.coursera.org/courses?query=johns%20hopkins
 </ol>
 
 <h3>Professional Memberships</h3> 
-<ol>
-  <li>SIAM - Society for Industrial and Applied Mathematics, member of the UQ activity group -- (Since 2022)</li>
-  <li>ASCE/EMI - American Society of Civil Engineers, member of the Probabilistic Methods Committee (PCM) -- (Since 2022)</li>
-  <li>UNCECOMP - Conference on Uncertainty Quantification in Computational Sciences and Engineering, member of the Sicientific commitee -- (Since 2019)</li>
-  <li>TEE - Technical Chember of Greece -- (Since 2006)</li>
-  <li>GRACM - Greek Association of computational mechanics -- (Since 2015)</li> 
-    <li>Licenced Civil Engineer, Greece -- (Since 2005)</li>
-</ol>
+
+:pushpin: SIAM - Society for Industrial and Applied Mathematics, member of the UQ activity group -- (Since 2022)
+:pushpin: ASCE/EMI - American Society of Civil Engineers, member of the Probabilistic Methods Committee (PCM) -- (Since 2022)
+:pushpin: UNCECOMP - Conference on Uncertainty Quantification in Computational Sciences and Engineering, member of the Sicientific commitee -- (Since 2019)
+:pushpin: TEE - Technical Chember of Greece -- (Since 2006)
+:pushpin: GRACM - Greek Association of computational mechanics -- (Since 2015)
+:pushpin: Licenced Civil Engineer, Greece -- (Since 2005)
+
 
 
 <h3>University / Department Service</h3> 
