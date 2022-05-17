@@ -4,7 +4,7 @@ permalink: /service/
 ---
 
 <h3>Outreach</h3> 
-Development of a <a href='https://www.coursera.org/courses?query=johns%20hopkins' target='_blank'>Coursera</a> course on <strong>Uncertainty Quantification</strong> (2022- in-progress).
+Development of a <a href='https://www.coursera.org/courses?query=johns%20hopkins' target='_blank'>Coursera</a> course on <strong>Uncertainty Quantification</strong> (Under development).
 
 
 <h3>Reviewer for peer-review journals</h3> 
