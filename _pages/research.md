@@ -3,6 +3,8 @@ title: "Research"
 permalink: /research/
 ---
 
+In a nutsell, I develop computational methods for uncertainty quantification and machine learning for a wide range of applications. My research is strongly multidisciplinary and lies in the intersection of applied mathematics, data science, physics-based modeling and engineering. 
+
 Uncertainty plays an outsized role in our understanding of structures and materials, especially in extreme environments, but it can also have a life changing impact -- for example, natural hazards can affect a community, a city, and can often impact an entire country. Therefore, reducing uncertainty in the modeling of physical or structural systems is critical if we want to inform decision-making and enable engineering to move away from empirical <i>ad hoc</i> approaches into strategies that are based on scientifically grounded analyses.
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/UQ.png"/>
@@ -19,7 +21,7 @@ My research addresses these challenges by advancing foundational computational m
 * Machine learning for surrogate modeling 
 * Bayesian inference for inverse problems
 * Structural reliability
-* Active learning methods 
+* Probabilistic modeling
 * Scientific software design and development
 
 I am also the <strong>Lead Developer</strong> of the general-purpose, open-source <code>Python</code> package <a href='https://github.com/SURGroup/UQpy' target='_blank'><code>UQpy</code></a> that contains a wide variety of methods for inverse and forward propagation of uncertainty, surrogate modeling, reliability and sensitivity analysis. 
