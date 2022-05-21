@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Dimitris Giovanis"
-  avatar : "/assets/images/bio-photo1.jpg"
+  avatar : "/assets/images/bio-phot1.jpg"
   bio    : "Uncertainty Quantification & Machine learning"
   links:
     - label: "Google Scholar"
