@@ -9,8 +9,9 @@ I am an <strong>Assistant Research Professor</strong> in the <a href="https://en
 My research is focused on the development of computational methods for <strong>uncertainty quantification<strong> and <strong>machine learning</strong> with applications in materials science, natural hazard engineering and biomechanics. My research is strongly multidisciplinary in nature and lies in the intersection of applied mathematics, data science, physics-based modeling and engineering. Some applications of interest are:
 
 * Influence of microstructural randomness, imperfections, and uncertainties on the properties of structural materials that enables the design, optimization, and utilization of new materials, such as metallic glasses and energetic materials for advanced applications and under extreme conditions.<br>
-* Assessing post-wildfire debris flow hazard both in terms of triggering and areal extent by incorporating the spatial and temporal variability and uncertainty in soil material properties and triggering characteristics.<br>
-* Uncertainty quantification in computational models of the human head for estimating the impact-induced response of the brain and increase the reliability of model predictions for traumatic brain injury.
+* Integrating uncertainty quantification and machine learning methods with natural hazard engineering modeling for understanding and quantifying the effects of earthquakes, hurricanes, tsunamis, and other natural hazards on buildings, lifelines, and communities.<br>
+* Influence of uncertainties on the geometry, boundary conditions and material properties on the impact-induced response of brain, to increase the reliability in the prediction of traumatic brain injury.
+
 
 With regards to my non-academic and research interests, I am an <strong>Assistant Coach</strong> for the JHU men's <a href="https://hopkinssports.com/sports/mens-water-polo" target="_blank">Water Polo</a> varsity team. I also play the classic guitar, and I love (good!) coffee, my two cats, travelling, swimming and my motorcycle!
 
