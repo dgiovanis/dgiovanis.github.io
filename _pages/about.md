@@ -4,12 +4,12 @@ title: "About"
 ---
 
 
-I am an <strong>Assistant Research Professor</strong> in the  <strong>Department of Civil and Systems Engineering</strong> (<a href="https://engineering.jhu.edu/case/" target="_blank">CaSE</a>) at the <strong>Johns Hopkins University</strong> (JHU), a program  that stands for:
+I am an <code>Assistant Research Professor</code> in the  <code>Department of Civil and Systems Engineering</code> (<a href="https://engineering.jhu.edu/case/" target="_blank">CaSE</a>) at the <code>Johns Hopkins University</code>, a program  that stands for:
 
-### <i>"Civilization Engineered"</i>
+### <center><i>"Civilization Engineered"</i></center>
 
 
-I am also a fellow at the Hopkins <strong>Extreme Materials Institute</strong> (<a href="https://hemi.jhu.edu">HEMI</a>), and a member of the <strong>Institute for Data Intensive Engineering and Science</strong> (<a href="https://idies.jhu.edu">IDIES</a>). 
+I am also a fellow at the Hopkins <code>Extreme Materials Institute</code> (<a href="https://hemi.jhu.edu">HEMI</a>), and a member of the <code>Institute for Data Intensive Engineering and Science</code> (<a href="https://idies.jhu.edu">IDIES</a>). 
 
 
 ## Research Highlights
@@ -24,12 +24,13 @@ I am also a fellow at the Hopkins <strong>Extreme Materials Institute</strong> (
 
 ## Non-Research Highlights
 
-*  I am an <strong>Assistant Coach</strong> for the JHU men's <a href="https://hopkinssports.com/sports/mens-water-polo" target="_blank">Water Polo</a> varsity team.
-* I play the classic guitar.
-* I love (good!) coffee.
-* I have two cats.
-* I love swimming.
-* ...and I own a Yamaha FZ6 naked.
+*  I am an <code>Assistant Coach</code> for the JHU men's <a href="https://hopkinssports.com/sports/mens-water-polo" target="_blank">Water Polo</a> varsity team.
+* I play the <code>classic guitar</code>.
+* I love (good!) <code>coffee</code>.
+* I have two <code>cats</code>.
+* I love <code>swimming</code>.
+* I love <code>travelling</code>.
+* ...and I own a <code>Yamaha FZ6 naked</code>.
 
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/image1.png"/>
