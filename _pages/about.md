@@ -15,8 +15,8 @@ I am also a fellow at the Hopkins <code>Extreme Materials Institute</code> (<a h
 ## Research Highlights
 
 * I perform computational research.
-* My research is on <code>uncertainty quantification</code> in computational models using <code>Machine Learning</code>.
-* But.. I am also interested in <code>quantifying uncertainties</code> in <code>Machine Learning</code>.
+* My research is on <code>uncertainty quantification</code> for computational models <u>using</u> <code>Machine Learning</code>.
+* But.. I am also interested in <code>quantifying uncertainties</code> <u>in</u> <code>Machine Learning</code>.
 * Lately, I have been working on <code>Manifold learning</code>.
 * My research is <code>multidisciplinary</code>. It lies at the intersection of <code>applied mathematics, data science, physics-based modeling</code> and <code>engineering</code>.
 * I work on problems from <code>materials science, natural hazard engineering</code> and <code>biomechanics</code>.
