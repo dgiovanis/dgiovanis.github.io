@@ -6,7 +6,7 @@ title: "About"
 
 I am an <strong>Assistant Research Professor</strong> in the  <strong>Department of Civil and Systems Engineering</strong> (<a href="https://engineering.jhu.edu/case/" target="_blank">CaSE</a>) at the <strong>Johns Hopkins University</strong> (JHU), a program  that stands for:
 
-# <i>Civilization Engineered</>
+### <i>Civilization Engineered</i>
 
 I am also a fellow at the Hopkins <strong>Extreme Materials Institute</strong> (<a href="https://hemi.jhu.edu">HEMI</a>) and a member of the <strong>Institute for Data Intensive Engineering and Science</strong> (<a href="https://idies.jhu.edu">IDIES</a>). 
 
@@ -27,7 +27,7 @@ I am also a fellow at the Hopkins <strong>Extreme Materials Institute</strong> (
 * I play the classic guitar.
 * I love (good!) coffee.
 * I have two cats.
-* I am a fanatic swimmer.
+* I love swimming.
 * ...and I own a Yamaha FZ6 naked.
 
 
