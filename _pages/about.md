@@ -10,11 +10,11 @@ I am an <strong>Assistant Research Professor</strong> in the  <strong>Department
 ## Research Highlights
 
 * I perform computational research.
-* I am interested in quantifying and propagating <code>uncertainties</code> in computational models using <code>Machine Learning</code>.
-* But.. I am also interested in quantifying uncertainties in <strong>Machine Learning</strong>.
-* Lately I have been also working on <strong>Manifold learning</strong>.
-* My research is <strong>multidisciplinary</strong>. It combines applied mathematics, data science, physics-based modeling and engineering.
-* I work on problems from <strong>materials science, natural hazard engineering</strong> and <strong>biomechanics</strong>.
+* My research is on <code>uncertainty quantification</code> in computational models using <code>Machine Learning</code>.
+* But.. I am also interested in quantifying uncertainties in <code>Machine Learning</code>.
+* Lately, I have been working on <code>Manifold learning</code>.
+* My research is <code>multidisciplinary</code>. It lies at the intersection of <code>applied mathematics, data science, physics-based modeling</code> and <code>engineering</code>.
+* I work on problems from <code>materials science, natural hazard engineering</code> and <code>biomechanics</code>.
 
 
 ## Non-Research Highlights
@@ -24,7 +24,7 @@ I am an <strong>Assistant Research Professor</strong> in the  <strong>Department
 * I love (good!) coffee.
 * I have two cats.
 * I am a fanatic swimmer.
-* ...and a proud owner of a Yamaha FZ6 naked.
+* ...and I own a Yamaha FZ6 naked.
 
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/image1.png"/>
