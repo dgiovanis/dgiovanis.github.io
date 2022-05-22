@@ -11,7 +11,7 @@ In this context, <code>uncertainty quantification (UQ)</code> identifies the sou
 
 * Enable robust <code>predictions</code> (<u>forward UQ</u>).
 * <code>Infer</code> uncertainties in the model from data (<u>inverse UQ</u>).
-* Calculate <code>probability of failure</code> (<u>reliability assessment</u>)
+* Calculate <code>probability of failure</code> (<u>reliability analysis</u>)
 * <code>Prioritize</code> the sources of uncertainty (<u>sensitivity analysis</u>). 
 
 Even though much of the low-hanging fruit in UQ - such as simplified models that have low-dimensional uncertainties with known probability distributions - has been bagged, the vast majority of UQ methods are not applicable to real-world problems. Challenges that arise include:
@@ -23,11 +23,10 @@ Even though much of the low-hanging fruit in UQ - such as simplified models that
 
 My research addresses these challenges by advancing <strong>foundational computational methodologies</code> for <code>uncertainty quantification</code> and <code>machine learning</code>.  Specific projects include: 
 
-* Manifold learning for latent representation of uncertainties
-* Machine learning for surrogate modeling 
-* Bayesian inference for inverse problems
-* Structural reliability
-* Probabilistic modeling
-* Scientific software design and development
+* <code>Manifold learning</code> for low-dimensional representation of uncertainties.
+* <code>Encoder-decoder</code> learning models for surrogate modeling.
+* <code>Active learning</code> for stochastic sampling.
+* <code>Reliability analysis</code> in the presence of small or incomplete data.
+* <code>Sensitivity</code> and <code>reliability analysis</code> on the manifold.
 
-I am also the <strong>Lead Developer</strong> of the general-purpose, open-source <code>Python</code> package <a href='https://github.com/SURGroup/UQpy' target='_blank'><code>UQpy</code></a> that contains a wide variety of methods for inverse and forward propagation of uncertainty, surrogate modeling, reliability and sensitivity analysis. 
+I am also interested inc<code>Scientific software design and development.</code> I am the <code>Lead Developer</code> of the general-purpose, open-source <code>Python</code> package <a href='https://github.com/SURGroup/UQpy' target='_blank'><code>UQpy</code></a> that contains a wide variety of methods for inverse and forward propagation of uncertainty, surrogate modeling, reliability and sensitivity analysis. 
