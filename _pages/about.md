@@ -4,7 +4,11 @@ title: "About"
 ---
 
 
-I am an <strong>Assistant Research Professor</strong> in the  <strong>Department of Civil and Systems Engineering</strong> (<a href="https://engineering.jhu.edu/case/" target="_blank">CaSE</a>) at the <strong>Johns Hopkins University</strong> (JHU), a program that aims to broaden the perspective beyond traditional Civil engineering in order to address the intertwined engineering and sociotechnical systems lying at the core of society's grand challenges (<i>Civilization Engineered</i>). I am also a fellow at the Hopkins <strong>Extreme Materials Institute</strong> (<a href="https://hemi.jhu.edu">HEMI</a>) and a member of the <strong>Institute for Data Intensive Engineering and Science</strong> (<a href="https://idies.jhu.edu">IDIES</a>). 
+I am an <strong>Assistant Research Professor</strong> in the  <strong>Department of Civil and Systems Engineering</strong> (<a href="https://engineering.jhu.edu/case/" target="_blank">CaSE</a>) at the <strong>Johns Hopkins University</strong> (JHU), a program  that stands for:
+
+# <i>Civilization Engineered</>
+
+I am also a fellow at the Hopkins <strong>Extreme Materials Institute</strong> (<a href="https://hemi.jhu.edu">HEMI</a>) and a member of the <strong>Institute for Data Intensive Engineering and Science</strong> (<a href="https://idies.jhu.edu">IDIES</a>). 
 
 
 ## Research Highlights
