@@ -10,10 +10,10 @@ I am an <strong>Assistant Research Professor</strong> in the  <strong>Department
 ## Highlights of my research
 
 * I perform computational research.
-* I develop computational methods for <strong>Uncertainty Quantification</strong> USING <strong>Machine Learning</strong>.
-* But.. I am also interested in performing <strong>Uncertainty Quantification</strong> IN <strong>Machine Learning</strong>
-* I develop methods for <strong>Manifold learning</strong>.
-* My research is <strong>multidisciplinary</strong>; it combines <strong>applied mathematics, data science, physics-based modeling</strong> and <strong>engineering</strong>.
+* I am interested in quantifying and propagating <strong>uncertainties</strong> in computational models using <strong>Machine Learning</strong>.
+* But.. I am also interested in quantifying uncertainties in <strong>Machine Learning</strong>.
+* Lately I have been also working on <strong>Manifold learning</strong>.
+* My research is <strong>multidisciplinary</strong>. It combines applied mathematics, data science, physics-based modeling and engineering.
 * I work on problems from <strong>materials science, natural hazard engineering</strong> and <strong>biomechanics</strong> Selected projects are: <br>
 
     * Influence of microstructural randomness, imperfections, and uncertainties on the properties of <strong>structural materials</strong> that enables the design, optimization, and utilization of new materials for advanced applications and under extreme conditions.<br>
