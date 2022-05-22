@@ -7,11 +7,18 @@ title: "About"
 I am an <strong>Assistant Research Professor</strong> in the  <strong>Department of Civil and Systems Engineering</strong> (<a href="https://engineering.jhu.edu/case/" target="_blank">CaSE</a>) at the <strong>Johns Hopkins University</strong> (JHU), a program that aims to broaden the perspective beyond traditional Civil engineering in order to address the intertwined engineering and sociotechnical systems lying at the core of society's grand challenges (<i>Civilization Engineered</i>). I am also a fellow at the Hopkins <strong>Extreme Materials Institute</strong> (<a href="https://hemi.jhu.edu">HEMI</a>) and a member of the <strong>Institute for Data Intensive Engineering and Science</strong> (<a href="https://idies.jhu.edu">IDIES</a>). 
 
 
-My main research interest is focused on the development of computational methods for <strong>uncertainty quantification</strong> and <strong>machine learning</strong> with applications in <strong>materials science, natural hazard engineering</strong> and <strong>biomechanics</strong>. My research is <strong>multidisciplinary</strong>  and lies in the intersection of <strong>applied mathematics, data science, physics-based modeling</strong> and <strong>engineering</strong>. Selected applications of interest are:
+## Highlights of my research
 
-* Influence of microstructural randomness, imperfections, and uncertainties on the properties of <strong>structural materials</strong> that enables the design, optimization, and utilization of new materials, such as metallic glasses and energetic materials for advanced applications and under extreme conditions.<br>
-* Integrating uncertainty quantification and machine learning methods with <strong>natural hazard engineering</strong> modeling for understanding and quantifying the effects of earthquakes, hurricanes, storm surge, and other natural hazards on buildings, lifelines, and communities.<br>
-* Influence of uncertainty in the geometry, boundary conditions and material properties of <strong>biofidelic head models</strong> on the impact-induced response of the human brain to increase the reliability in the prediction of <strong>traumatic brain injury</strong>.
+* I perform computational research.
+* I develop computational methods for <strong>Uncertainty Quantification</strong> USING <strong>Machine Learning</strong>.
+* But.. I am also interested in performing <strong>Uncertainty Quantification</strong> IN <strong>Machine Learning</strong>
+* I develop methods for <strong>Manifold learning</strong>.
+* My research is <strong>multidisciplinary</strong>; it combines <strong>applied mathematics, data science, physics-based modeling</strong> and <strong>engineering</strong>.
+* I work on problems from <strong>materials science, natural hazard engineering</strong> and <strong>biomechanics</strong> Selected projects are: <br>
+
+    * Influence of microstructural randomness, imperfections, and uncertainties on the properties of <strong>structural materials</strong> that enables the design, optimization, and utilization of new materials for advanced applications and under extreme conditions.<br>
+    * Integrating uncertainty quantification and machine learning methods with <strong>natural hazard engineering</strong> modeling for understanding and quantifying the effects of earthquakes, hurricanes, and other natural hazards on buildings, lifelines, and communities.<br>
+    * Influence of uncertainty in the geometry, boundary conditions and material properties of <strong>biofidelic head models</strong> on the impact-induced response of the human brain to increase the reliability in the prediction of <strong>traumatic brain injury</strong>.
 
 
 With regards to my non-academic and research interests, I am an <strong>Assistant Coach</strong> for the JHU men's <a href="https://hopkinssports.com/sports/mens-water-polo" target="_blank">Water Polo</a> varsity team. I also play the classic guitar, and I love (good!) coffee, my two cats, travelling, swimming and my motorcycle!
