@@ -18,19 +18,19 @@ I am also a fellow at the Hopkins <code>Extreme Materials Institute</code> (<a h
 * My research is focused on <code>uncertainty quantification</code>  <u>using</u> <code>Machine Learning</code>.
 * But...I am also interested in <code>quantifying uncertainties</code> <u>in</u> <code>Machine Learning</code>.
 * Lately, I have been working on <code>Manifold learning</code>.
-* My research is <code>multidisciplinary</code>. It lies at the intersection of <code>applied mathematics, data science, physics-based modeling</code> and <code>engineering</code>.
+* My research is <code>multidisciplinary.</code> It lies at the intersection of <code>applied mathematics, data science, physics-based modeling</code> and <code>engineering</code>.
 * I work on problems from <code>materials science, natural hazard engineering</code> and <code>biomechanics</code>.
 
 
 ## Non-Research Highlights
 
 *  I am an <code>Assistant Coach</code> for the JHU men's <a href="https://hopkinssports.com/sports/mens-water-polo" target="_blank">Water Polo</a> varsity team.
-* I play the <code>classic guitar</code>.
-* I love (good!) <code>coffee</code>.
-* I have two <code>cats</code>.
-* I love <code>swimming</code>.
-* I love <code>travelling</code>.
-* ...and I own a <code>Yamaha FZ6 naked</code>.
+* I play the <code>classic guitar.</code>
+* I love (good!) <code>coffee.</code>
+* I have two <code>cats.</code>
+* I love <code>swimming.</code>
+* I love <code>travelling.</code>
+* ...and I own a <code>Yamaha FZ6 naked.</code>
 
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/image1.png"/>
