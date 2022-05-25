@@ -36,9 +36,7 @@ The goal of the <a href="https://simcenter.designsafe-ci.org" target="_blank">Si
   <strong>Role</strong>: Co-PI<br>
  <strong>Amount</strong>: $433,000<br>
 
-<code>Wild fires</code> significantly increase the susceptibility of steep terrain to rainfall-induced debris flows. These fast moving, dense flows are initiated during short, <code>intense rainfall</code> and are often triggered with little-to-no warning, making them especially dangerous for communities situated down slope of recently burned terrain. Uncertainties in <code>soil properties,rainfall</code>,and <code>triggering mechanisms</code> play a crucial role in risk analysis. We develop a:
-
-* <code>mechanics-based</code> and <code>data-driven</code> approach for assessing <code>post-wildfire debris flow hazard</code> both in terms of triggering and areal extent.
+<code>Wild fires</code> significantly increase the susceptibility of steep terrain to rainfall-induced debris flows. These fast moving, dense flows are initiated during short, <code>intense rainfall</code> and are often triggered with little-to-no warning, making them especially dangerous for communities situated down slope of recently burned terrain. Uncertainties in <code>soil properties,rainfall</code>,and <code>triggering mechanisms</code> play a crucial role in risk analysis. We develop a <code>mechanics-based</code> and <code>data-driven</code> approach for assessing <code>post-wildfire debris flow hazard</code> both in terms of triggering and areal extent.
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/debris.png"/>
 
