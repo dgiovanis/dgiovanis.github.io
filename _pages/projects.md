@@ -25,9 +25,7 @@ In this project we use <code>machine learning</code> to build a robust bridge be
 <strong>Amount</strong>: $100,000<br>
 
 
-The goal of the <a href="https://simcenter.designsafe-ci.org" target="_blank">SimCenter</a> is to promote advanced modeling and simulation technologies for <code>natural hazards</code> engineering researchers and practitioners to understand and quantify the effects of <code>earthquakes, hurricanes, tsunamis</code>, and other natural hazards on buildings, lifelines, and communities. The objective of this project is to:
-
-* integrate state-of-the-art <code>uncertainty quantification</code> methods with <code>SimCenter tools</code> for hazard modelers. 
+The goal of the <a href="https://simcenter.designsafe-ci.org" target="_blank">SimCenter</a> is to promote advanced modeling and simulation technologies for <code>natural hazards</code> engineering researchers and practitioners to understand and quantify the effects of <code>earthquakes, hurricanes, tsunamis</code>, and other natural hazards on buildings, lifelines, and communities. The objective of this project is to integrate state-of-the-art <code>uncertainty quantification</code> methods with <code>SimCenter tools</code> for hazard modelers. 
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/SimCenter.png"/>
 
@@ -52,9 +50,7 @@ The goal of the <a href="https://simcenter.designsafe-ci.org" target="_blank">Si
   <strong>Role</strong>: PI<br>
  <strong>Amount</strong>: $25,000<br>
 
-Energetic materials such as <code>propellants, explosives</code>, and <code>pyrotechnics</code> are key performance components in a wide range of defense applications, including solid rocket motors and munitions. Sensitivity of energetic materials to loading (e.g., shock) is critically dependent on the <code>heterogeneities of the microstructure</code>. Given its inherently stochastic nature, in order to understand, predict and control the shock-to-detonation or shock-to-deflagration transition, it is crucial to conduct uncertainty quantification. In this project, we develop:
-
-* <code>manifold learning-based surrogate models</code> that will accelerate UQ. 
+Energetic materials such as <code>propellants, explosives</code>, and <code>pyrotechnics</code> are key performance components in a wide range of defense applications, including solid rocket motors and munitions. Sensitivity of energetic materials to loading (e.g., shock) is critically dependent on the <code>heterogeneities of the microstructure</code>. In this project, we develop <code>manifold learning-based surrogate models</code> that will accelerate UQ that will help to to understand, predict and control the shock-to-detonation or shock-to-deflagration transition. 
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/energetic.png"/>
 
@@ -88,7 +84,7 @@ An alliance of 18 research institutions led by the Johns Hopkins University in c
 
 <strong>Funding Source</strong>: <a href="https://www.ninds.nih.gov" target="_blank">National Institute of Neurological Disorders and Stroke of the National Institutes of Health (NIH)</a><br>
 
-Computational models of the <code>human head</code> are promising tools for estimating the impact-induced response of brain, and thus play an important role in the prediction of <code>traumatic brain injury</code>. Modern biofidelic head model simulations are associated with very high computational cost, and high-dimensional inputs and outputs, which limits the applicability of traditional uncertainty quantification (UQ) methods on these systems. 
+Computational models of the <code>human head</code> are promising tools for estimating the impact-induced response of brain, and thus play an important role in the prediction of <code>traumatic brain injury</code>. Modern biofidelic head model simulations are associated with very high computational cost, and high-dimensional inputs and outputs, which limits the applicability of traditional uncertainty quantification methods on these systems. 
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/head1.png"/>
 
