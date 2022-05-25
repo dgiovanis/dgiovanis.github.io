@@ -9,7 +9,12 @@ permalink: /software/
 * <a href="https://doi.org/10.1016/j.jocs.2020.101204" target="_blank">Paper</a><br>
 * <a href="https://uqpyproject.readthedocs.io/en/latest/" target="_blank">Documentation</a><br>
 
-<code><b>UQpy</b></code> is an _open_ _source_ general-purpose Python toolbox for modeling uncertainty in the simulation of physical and mathematical systems.  The code is organized as a set of modules centered around core capabilities in Uncertainty Quantification (UQ). The modules are distinct, but are designed to be easily extensible (new capabilities can be easily added and integrated into the code) and to easily call one another. <code><b>UQpy</b></code> contains the following modules:
+<code><b>UQpy</b></code> is an _open_ _source_ general-purpose Python toolbox for modeling uncertainty in the simulation of physical and mathematical systems. 
+
+* The code is organized as a set of <code>modules</code> centered around core capabilities in Uncertainty Quantification (UQ).
+* The modules are distinct, but are designed to be easily <code>extensible</code> (new capabilities can be easily added and integrated into the code).
+
+ <code><b>UQpy</b></code> contains the following modules:
 
 - <code>Dimension Reduction</code>
 - <code>Distributions</code>
