@@ -21,7 +21,7 @@ Even though much of the low-hanging fruit in UQ - such as simplified models that
 * Repeated evaluation of <u>expensive computational models</u> that may require days to execute.
 
 
-My research addresses these challenges by advancing <strong>foundational computational methodologies</code> for <code>uncertainty quantification</code> and <code>machine learning</code>.  Specific projects include: 
+My research addresses these challenges by advancing <code>foundational computational methodologies</code> for <code>uncertainty quantification</code> and <code>machine learning</code>.  Specific projects include: 
 
 * <code>Manifold learning</code> for low-dimensional representation of uncertainties.
 * <code>Encoder-decoder</code> learning models for surrogate modeling.
