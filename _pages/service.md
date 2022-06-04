@@ -30,6 +30,7 @@ Development of a <a href='https://www.coursera.org/courses?query=johns%20hopkins
 
 :pushpin: <strong>SIAM</strong> - Society for Industrial and Applied Mathematics, member of the UQ activity group -- (Since 2022).<br>
 :pushpin: <strong>ASCE/EMI</strong>  - American Society of Civil Engineers, member of the Probabilistic Methods Committee (PCM) -- (Since 2022).<br>
+:pushpin: <strong>ASCE/EMI</strong>  - American Society of Civil Engineers, member of the Machine Learning in Mechanics Committee -- (Pending).<br>
 :pushpin: <strong>UNCECOMP</strong>  - Conference on Uncertainty Quantification in Computational Sciences and Engineering, member of the Sicientific commitee -- (Since 2019).<br>
 :pushpin: <strong>TEE</strong>  - Technical Chember of Greece -- (Since 2006).<br>
 :pushpin: <strong>GRACM</strong>  - Greek Association of computational mechanics -- (Since 2015).<br>
