@@ -8,11 +8,11 @@ permalink: /publications/
 
 ## Preprints
 
-:pushpin: K.R.M. dos Santos, **D.G. Giovanis**, K. Kontolati, D. Loukrezis, M.D. Shields, [Grassmannian diffusion maps based surrogate modeling via geometric harmonics](https://arxiv.org/pdf/2109.13805.pdf), Accepted for publication in <i>International Journal for Numerical Methods in Engineering</i>, 2022.<br/>
-
 :pushpin: K. Upadhya,  **D.G. Giovanis**, R. Jagani, A. Alshareef, A.K. Knutsen, C. L. Johnson, A. Caras, P.V. Bayly, M.D. Shields, K.T. Ramesh, [Data-driven Uncertainty Quantification in Computational Human Head Models](https://arxiv.org/pdf/2110.15553.pdf), Accepted for publication in <i>Computer Methods in Applied Mechanics and Engineering</i>, 2022.<br/>
 
 ## Journal Articles
+
+:pushpin: K.R.M. dos Santos, **D.G. Giovanis**, K. Kontolati, D. Loukrezis, M.D. Shields, [Grassmannian diffusion maps based surrogate modeling via geometric harmonics](https://onlinelibrary.wiley.com/doi/pdf/10.1002/nme.6977), <i>International Journal for Numerical Methods in Engineering</i>, 1-23, 2022.<br/>
 
 :pushpin: **D.G. Giovanis**, M.D. Shields, [Imprecise Subset Simulation](https://doi.org/10.1016/j.probengmech.2022.103293), <i>Probabilistic Engineering Mechanics</i>, Available online 18 May 2022, 103293,  2022.<br/>
 
