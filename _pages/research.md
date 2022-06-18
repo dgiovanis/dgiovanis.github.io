@@ -20,7 +20,6 @@ Even though much of the low-hanging fruit in UQ - such as simplified models that
 * Parameterized uncertainties may be extremely <u>high dimensional</u>
 * Repeated evaluation of <u>expensive computational models</u> that may require days to execute
 
-
 My research addresses these challenges by advancing <code>foundational computational methodologies</code> for <code>uncertainty quantification</code> and <code>machine learning</code>.  Specific projects include: 
 
 * <code>Manifold learning</code> for low-dimensional representation of uncertainties
@@ -29,4 +28,4 @@ My research addresses these challenges by advancing <code>foundational computati
 * <code>Reliability analysis</code> in the presence of small or incomplete data
 * <code>Sensitivity</code> and <code>reliability analysis</code> on the manifold
 
-I am also interested inc<code>Scientific software design and development.</code> I am the <code>Lead Developer</code> of the general-purpose, open-source <code>Python</code> package <a href='https://github.com/SURGroup/UQpy' target='_blank'><code>UQpy</code></a> that contains a wide variety of methods for inverse and forward propagation of uncertainty, surrogate modeling, reliability and sensitivity analysis. 
+I am also interested in <code>Scientific software design and development.</code> I am the <code>Lead Developer</code> of the general-purpose, open-source <code>Python</code> package <a href='https://github.com/SURGroup/UQpy' target='_blank'><code>UQpy</code></a> that contains a wide variety of methods for inverse and forward propagation of uncertainty, surrogate modeling, reliability and sensitivity analysis. 
