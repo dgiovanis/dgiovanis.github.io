@@ -28,13 +28,13 @@ Development of a <a href='https://www.coursera.org/courses?query=johns%20hopkins
 
 <h3>Professional Memberships</h3> 
 
-:pushpin: <strong>SIAM</strong> - Society for Industrial and Applied Mathematics, member of the UQ activity group -- (Since 2022).<br>
-:pushpin: <strong>ASCE/EMI</strong>  - American Society of Civil Engineers, member of the Probabilistic Methods Committee (PCM) -- (Since 2022).<br>
-:pushpin: <strong>ASCE/EMI</strong>  - American Society of Civil Engineers, member of the Machine Learning in Mechanics Committee -- (Pending).<br>
-:pushpin: <strong>UNCECOMP</strong>  - Conference on Uncertainty Quantification in Computational Sciences and Engineering, member of the Sicientific commitee -- (Since 2019).<br>
-:pushpin: <strong>TEE</strong>  - Technical Chember of Greece -- (Since 2006).<br>
-:pushpin: <strong>GRACM</strong>  - Greek Association of computational mechanics -- (Since 2015).<br>
-:pushpin: Licenced Civil Engineer, Greece -- (Since 2005).<br>
+:pushpin: <strong>SIAM</strong> - Society for Industrial and Applied Mathematics, member of the UQ activity group -- (Since 2022)<br>
+:pushpin: <strong>ASCE/EMI</strong>  - American Society of Civil Engineers, member of the Probabilistic Methods Committee (PCM) -- (Since 2022)<br>
+:pushpin: <strong>ASCE/EMI</strong>  - American Society of Civil Engineers, member of the Machine Learning in Mechanics Committee -- (Pending)<br>
+:pushpin: <strong>UNCECOMP</strong>  - Conference on Uncertainty Quantification in Computational Sciences and Engineering, member of the Sicientific commitee -- (Since 2019)<br>
+:pushpin: <strong>TEE</strong>  - Technical Chember of Greece -- (Since 2006)<br>
+:pushpin: <strong>GRACM</strong>  - Greek Association of computational mechanics -- (Since 2015)<br>
+:pushpin: Licenced Civil Engineer, Greece -- (Since 2005)<br>
 
 
 
@@ -49,16 +49,13 @@ Development of a <a href='https://www.coursera.org/courses?query=johns%20hopkins
 
 
 :pushpin: Organized <u>Conference Sessions</u><br>
-* <strong>UNCECOMP 2023</strong>, Title: <em>Learning from small data: Data-driven methods and machine learning for uncertainty quantification in engineering applications.</em>
-* <strong>UNCECOMP 2021</strong>, Title: <em>Data-driven Uncertainty Quantification and Data Assimilation using manifold learning and Sparse and Low-rank Representations.</em>
-* <strong>WCCM 2020</strong>, Title: <em>Physics-based data-driven modeling and uncertainty quantification in computational mechanics.</em>
-* <strong>UNCECOMP 2019</strong>, Title: <em>Surrogate and reduced-order modeling for stochastic simulation of physical systems.</em>
+* <strong>UNCECOMP 2023</strong>, <em>Learning from small data: Data-driven methods and machine learning for uncertainty quantification in engineering applications.</em>
+* <strong>UNCECOMP 2021</strong>, <em>Data-driven Uncertainty Quantification and Data Assimilation using manifold learning and Sparse and Low-rank Representations.</em>
+* <strong>WCCM 2020</strong>, <em>Physics-based data-driven modeling and uncertainty quantification in computational mechanics.</em>
+* <strong>UNCECOMP 2019</strong>, <em>Surrogate and reduced-order modeling for stochastic simulation of physical systems.</em>
 
 :pushpin: Organized <u>Workshops</u><br>
 * <a href='https://github.com/SURGroup/MSEE_UQ_Short_Course' target='_blank'>MSEE Short Course</a>: Uncertainty Quantification in Physics-Based Modeling Using Python -- (June 2021, 2022). Offered for the Materials Science in Extreme Environments University Research Alliance (MSEE URA)<br>
 
 :pushpin: Other<br>
 * Judge, Student Paper Competition,  Engineering Mechanics Conference (PMC) -- (June 2022)
-
-
-
