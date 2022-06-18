@@ -33,5 +33,5 @@ I am also a fellow at the Hopkins <code>Extreme Materials Institute</code> (<a h
 * ...and I own a <code>Yamaha FZ6 naked</code>
 
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/image1.png"/>
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/image2.png"/>
 
