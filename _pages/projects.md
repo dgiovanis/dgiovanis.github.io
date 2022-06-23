@@ -11,10 +11,8 @@ permalink: /projects/
 <strong>Role</strong>: Co-PI<br>
 <strong>Amount</strong>: $200,000<br>
 
-In this project we use <code>machine learning</code> to build a robust bridge between <code>atomic-scale</code> data and the development of <code>meso-scale</code> models suitable for predicting the response of metallic glasses. Specific tasks include: 
+In this project we use <code>machine learning</code> to build a robust bridge between <code>atomic-scale</code> data and the development of <code>meso-scale</code> models suitable for predicting the response of metallic glasses. Specifically, we deploy manifold learning for nonlinear <code>dimension reduction</code> of atomistic data to identify machine learned descriptors of their glassy <code>microstructure</code> and link them to physically motivated descriptors, e.g local yield stress. 
 
-* Manifold learning for nonlinear <code>dimension reduction</code> of the atomistic data to identify machine learned descriptors of the material <code>microstructure</code>
-* <code>Deep learning</code> to derive meso-scale constitutive models that predict the evolution of the microstructure and the development of <code>plastic flow</code> resulting in failure
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/SandiaProject.png"/>
 
