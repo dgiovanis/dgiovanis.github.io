@@ -3,11 +3,11 @@ title: "Research"
 permalink: /research/
 ---
 
-Decision-making in science and engineering is mainly informed through model-based predictions, where we first understand and define the questions we are posing and then define models to answer them. However, predictions without reducing uncertainty in the modeling of physical or structural systems (i.e., <code>uncertainty quantification</code>) do not provide the trust needed to inform decisions. On the other hand, when neither the questions nor the underlying models are known, <code>machine learning</code> can be utilized to develop data-driven models.  Similarly, the predictions of the ML models cannot be used for decision-making without UQ. 
+Decision-making in science and engineering is mainly informed through model-based predictions, where we first understand and define the questions we are posing and then define models to answer them. However, predictions without <code>uncertainty quantification</code> do not provide the trust needed to inform decisions. On the other hand, when neither the questions nor the underlying models are known, <code>machine learning</code> can be utilized to develop data-driven models.  Similarly, the predictions of the ML models cannot be used for decision-making without UQ. 
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/UQ.png"/>
 
-In a nutshell, <code>uncertainty quantification (UQ)</code> identifies the sources of uncertainty in a numerical model and quantifies their impact on the behavior of the model in order to:
+In a nutshell, <code>uncertainty quantification (UQ)</code> involves the mathematical treatment of uncertainties in numerical models. More specifically, UQ identifies the sources of uncertainty and quantifies its impact on the behavior of the model in order to:
 
 * Enable robust <code>predictions</code> (<u>forward UQ</u>).
 * <code>Infer</code> uncertainties in the model from data (<u>inverse UQ</u>)
