@@ -13,8 +13,15 @@ permalink: /projects/
 
 In this project we use <code>machine learning</code> to build a robust bridge between <code>atomic-scale</code> data and the development of <code>meso-scale</code> models suitable for predicting the response of metallic glasses. Specifically, we deploy manifold learning for nonlinear <code>dimension reduction</code> of atomistic data to identify machine learned descriptors of their glassy <code>microstructure</code> and link them to physically motivated descriptors, e.g local yield stress. 
 
-
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/SandiaProject.png"/>
+
+ <strong>Funding Source</strong>: <a href="https://hemi.jhu.edu" target="_blank">Hopkins Extreme Materials Institute</a> <br>
+  <strong>Role</strong>: PI<br>
+ <strong>Amount</strong>: $25,000<br>
+
+Energetic materials such as <code>propellants, explosives</code>, and <code>pyrotechnics</code> are key performance components in a wide range of defense applications, including solid rocket motors and munitions. Sensitivity of energetic materials to loading (e.g., shock) is critically dependent on the <code>heterogeneities of the microstructure</code>. In this project, we develop <code>manifold learning-based surrogate models</code> that will accelerate UQ that will help to to understand, predict and control the shock-to-detonation or shock-to-deflagration transition. 
+
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/energetic.png"/>
 
 <h3><code>Natural Hazards Engineering Research Infrastructure: Computational Modeling and Simulation Center (2021-2025)</code></h3>
 
@@ -41,14 +48,6 @@ The goal of the <a href="https://simcenter.designsafe-ci.org" target="_blank">Si
 
 <h3><code>Data-driven uncertainty quantification for energetic materials (2022-2023)</code></h3>
 
-
- <strong>Funding Source</strong>: <a href="https://hemi.jhu.edu" target="_blank">Hopkins Extreme Materials Institute</a> (Pending)<br>
-  <strong>Role</strong>: PI<br>
- <strong>Amount</strong>: $25,000<br>
-
-Energetic materials such as <code>propellants, explosives</code>, and <code>pyrotechnics</code> are key performance components in a wide range of defense applications, including solid rocket motors and munitions. Sensitivity of energetic materials to loading (e.g., shock) is critically dependent on the <code>heterogeneities of the microstructure</code>. In this project, we develop <code>manifold learning-based surrogate models</code> that will accelerate UQ that will help to to understand, predict and control the shock-to-detonation or shock-to-deflagration transition. 
-
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/energetic.png"/>
 
 ## Engagement in other on-going projects
 
