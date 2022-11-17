@@ -6,6 +6,10 @@ permalink: /publications/
 ## Book
 :pushpin: V. Papadopoulos,  **D.G. Giovanis**,  [Stochastic Finite Element Methods: An Introduction](https://doi.org/10.1007/978-3-319-64528-5), <i>Mathematical Engineering, Springer</i>, ISBN:978-3-319-64527-8, 2018.<br/>
 
+## Preprints
+:pushpin: T. J. Hardin, M. Chandross, R. Meena, S. Fajardo, **D.G. Giovanis**, Y. G. Kevrekidis, M. Falk, M. Shields,  ,  [Quantifying the Structure of Disordered Materials](https://arxiv.org/pdf/2211.07790.pdf), <i>Submitted to Nature Computational Sciences</i>, <br/>
+
+
 ## Journal Articles
 
 :pushpin: K. Upadhya,  **D.G. Giovanis**, R. Jagani, A. Alshareef, A.K. Knutsen, C. L. Johnson, A. Caras, P.V. Bayly, M.D. Shields, K.T. Ramesh, [Data-driven Uncertainty Quantification in Computational Human Head Models](https://doi.org/10.1016/j.cma.2022.115108), <i>Computer Methods in Applied Mechanics and Engineering</i>, Vol.398, 115108, 2022.<br/>
