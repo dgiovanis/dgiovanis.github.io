@@ -4,22 +4,17 @@ title: "About"
 ---
 
 
-I am an <code>Assistant Research Professor</code> in the  <code>Department of Civil and Systems Engineering</code> (<a href="https://engineering.jhu.edu/case/" target="_blank">CaSE</a>) at the <code>Johns Hopkins University</code>, a program  that stands for:
-
-### <center><i>"Civilization Engineered"</i></center>
-
-
-I am also a fellow at the Hopkins <code>Extreme Materials Institute</code> (<a href="https://hemi.jhu.edu">HEMI</a>), and a member of the <code>Institute for Data Intensive Engineering and Science</code> (<a href="https://idies.jhu.edu">IDIES</a>). 
+I am an <code>Assistant Research Professor</code> in the  <code>Department of Civil and Systems Engineering</code> (<a href="https://engineering.jhu.edu/case/" target="_blank">CaSE</a>) at  <code>Johns Hopkins University</code>. I am also a fellow at the Hopkins <code>Extreme Materials Institute</code> (<a href="https://hemi.jhu.edu">HEMI</a>), and a member of the <code>Institute for Data Intensive Engineering and Science</code> (<a href="https://idies.jhu.edu">IDIES</a>). 
 
 
 ## Research Highlights
 
-* I develop <code>models</code> and <code>algorithms</code> toward the study of complex multiscale systems
-* My research is centered around  <code>Machine Learning</code>, <code>uncertainty quantification</code>  and <code>probabilistic modeling</code>
-* Lately, I have been working on <code>Manifold learning</code>
-* I am also interested in <code>quantifying uncertainties</code> <u>in</u> <code>Machine Learning</code>
-* My research is <code>interdisciplinary.</code> It lies at the intersection of <code>applied mathematics, data science, physics-based modeling</code> and <code>engineering</code>
-* I work on problems from <code>materials science, natural hazard engineering</code> and <code>biomechanics</code>
+* I develop <code>models</code> and <code>algorithms</code> to enable, accelerate, and optimize simulation and analysis of complex stochastic systems
+* My research is centered around  <code>Scientific Machine Learning</code> and <code>uncertainty quantification</code>
+* I am working on utilizing <code>Nonlinear Manifold Learning</code> and <code>Scientific Machine Learning</code> for accelerating uncertainty quantification in complex physical models
+* I am also interested in <code>quantifying uncertainties</code> <u>in</u> <code>Scientific Machine Learning</code>
+* My research is strongly <code>interdisciplinary</code>; It lies at the intersection of <code>applied mathematics, data science, physics-based modeling</code> and <code>engineering</code>
+* I work on problems from <code>Mechanical/Civil/Aerospace engineering, Materials Science, Natural Hazards Engineering,  Epidemics</code>, and <code>biomechanics</code>
 
 
 ## Non-Research Highlights

@@ -11,7 +11,7 @@ permalink: /teaching/
 <ol>
   <li><strong>Applied Math for Engineers</strong> (EN.560.601) -- <strong>Level</strong>: Graduate, <strong>Format</strong>: Lecture</li>
     <ul>
-    <li><em>Sping</em>: 2022</li>
+    <li><em>Sping</em>: 2022, 2023</li>
   </ul>  
   This course presents a broad survey of the basic mathematical methods used
 in the solution of ordinary and partial differential equations: linear algebra, power series,
@@ -26,7 +26,7 @@ Fourier series, separation of variables and integral transforms. <br>
   
   <li><strong>Gateway Computing Python</strong> (EN.500.113) -- <strong>Level</strong>: Undergraduate, <strong>Format</strong>: Flipped Classroom</li>
       <ul>
-        <li><em>Fall</em>: 2020, 2021, 2022</li>
+        <li><em>Fall</em>: 2020, 2021, 2022, 2023</li>
         <li><em>Sping</em>: 2021</li>
     </ul> 
   

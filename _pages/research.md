@@ -16,11 +16,11 @@ In a nutshell, <code>uncertainty quantification (UQ)</code> involves the mathema
 
 My research is contoured around <code>methodological</code> research for <code>uncertainty quantification</code> and <code>machine learning</code>.  Specific projects include: 
 
-* <code>Manifold learning</code> for low-dimensional representation of uncertainties
-* <code>Machine learning</code>  for supervised and unsupervised learning tasks
+* <code>Manifold learning</code> for low-dimensional representation of high-dimensional models
+* <code>Neural networks </code>  for supervised learning tasks
 * <code>Uncertainty quantification</code> in <code>machine learning</code>  models
-* <code>Active learning</code> for stochastic sampling
-* <code>Reliability analysis</code> in the presence of small or incomplete data
+* <code>Active learning</code> for exploring design spaces
+* <code>Statistical inference</code> in the presence of small or incomplete data
 * <code>Sensitivity</code> and <code>reliability analysis</code> on the manifold
 
 

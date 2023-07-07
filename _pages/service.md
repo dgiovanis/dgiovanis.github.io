@@ -11,6 +11,7 @@ Development of a <a href='https://www.coursera.org/courses?query=johns%20hopkins
 
 * Journal of Computer Methods in Applied Mechanics and Engineering
 * Journal of Probabilistic Engineering Mechanics
+* Journal of  Structural Health Monitoring
 * Journal of  Computational Physics
 * International Journal for Numerical Methods in Engineering
 * Journal of Artificial Intelligence
@@ -30,7 +31,7 @@ Development of a <a href='https://www.coursera.org/courses?query=johns%20hopkins
 
 :pushpin: <strong>SIAM</strong> - Society for Industrial and Applied Mathematics, member of the UQ activity group -- (Since 2022)<br>
 :pushpin: <strong>ASCE/EMI</strong>  - American Society of Civil Engineers, member of the Probabilistic Methods Committee (PCM) -- (Since 2022)<br>
-:pushpin: <strong>ASCE/EMI</strong>  - American Society of Civil Engineers, member of the Machine Learning in Mechanics Committee -- (Pending)<br>
+:pushpin: <strong>ASCE/EMI</strong>  - American Society of Civil Engineers, member of the Machine Learning in Mechanics Committee -- (Since 2023)<br>
 :pushpin: <strong>UNCECOMP</strong>  - Conference on Uncertainty Quantification in Computational Sciences and Engineering, member of the Sicientific commitee -- (Since 2019)<br>
 :pushpin: <strong>TEE</strong>  - Technical Chember of Greece -- (Since 2006)<br>
 :pushpin: <strong>GRACM</strong>  - Greek Association of computational mechanics -- (Since 2015)<br>
@@ -41,7 +42,7 @@ Development of a <a href='https://www.coursera.org/courses?query=johns%20hopkins
 <h3>University / Department Service (JHU)</h3> 
 
 
-:pushpin: Volunteer Assistant Coach for the man's Water Polo team -- (Since 2016).<br>
+:pushpin: Assistant Coach for the man's Water Polo team -- (Since 2016).<br>
 :pushpin: Judge for the Student Paper Competition,  8th Annual Johns Hopkins Postdoctoral Conference -- (April 2022).<br>
 
 
