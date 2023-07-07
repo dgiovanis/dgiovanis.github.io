@@ -3,7 +3,7 @@ title: "Software"
 permalink: /software/
 ---
 
-<h4><b><code> UQpy</code> : Uncertainty Quantification with python</b></h4>
+<h4><b><code> UQpy</code> : Uncertainty Quantification with Python</b></h4>
 
 * <a href="https://github.com/SURGroup/UQpy" target="_blank"> Github</a><br>
 * <a href="https://doi.org/10.1016/j.jocs.2020.101204" target="_blank">Paper</a><br>
